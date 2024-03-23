@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e47a0bb-d442-4832-83bf-af28d5b05a50" name="Changes" comment="E4.11">
-      <change afterPath="$PROJECT_DIR$/src/PunctuationRemoval.java" afterDir="false" />
+    <list default="true" id="9e47a0bb-d442-4832-83bf-af28d5b05a50" name="Changes" comment="E4.12">
+      <change afterPath="$PROJECT_DIR$/src/DigitSeparation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="E4.12" />
       </map>
     </option>
   </component>
@@ -40,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DigitSeparation.executor": "Run",
     "Application.FileNameAndLocation.executor": "Run",
     "Application.PunctuationRemoval.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -61,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711211374175</updated>
-      <workItem from="1711211375326" duration="3098000" />
+      <workItem from="1711211375326" duration="5591000" />
     </task>
     <task id="LOCAL-00001" summary="E4.11">
       <option name="closed" value="true" />
@@ -79,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711215176425</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="E4.12">
+      <option name="closed" value="true" />
+      <created>1711216265381</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711216265381</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,7 +96,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="E4.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="E4.11" />
+    <MESSAGE value="E4.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="E4.12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -100,6 +110,30 @@
           <url>file://$PROJECT_DIR$/src/FileNameAndLocation.java</url>
           <line>5</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PunctuationRemoval.java</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DigitSeparation.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DigitSeparation.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DigitSeparation.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DigitSeparation.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
